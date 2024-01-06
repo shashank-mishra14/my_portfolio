@@ -1,4 +1,4 @@
-const defaultTheme = {
+const _default = {
     // Temp fonts
     fonts: {
       title: "Space Grotesk, sans-serif",
@@ -25,4 +25,4 @@ const defaultTheme = {
     },
   }
 
-export default defaultTheme;
+export default _default;
