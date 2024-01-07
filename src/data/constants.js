@@ -208,7 +208,7 @@ export const education = [
     school: "Kanpur Institute of Technology, Uttar Pradesh",
     date: "Oct 2020 - Sep 2024",
     grade: "8.21 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kanpur Institute of Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kanpur Institute of Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.21. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
@@ -236,8 +236,7 @@ export const projects = [
     date: "Dec 2023 - Dec 2023",
     description:
       "Open Science Snapshot is a web application that allows users to search for scientific papers and articles.It serves as a Decentralized Application that is deployed on Ethereum It uses the Semantic Scholar API to fetch the data. It also allows users to save the articles and papers to their profile. It also has a feature t. It also has a feature to search for the latest news related to science and technology.",
-    image:
-      "Portfolio/portfolio/src/images/OSS.png",
+    image: "Portfolio/portfolio/src/images/OSS.png",
     tags: [
       "Etheruem",
       "Scroll.io",
@@ -255,8 +254,7 @@ export const projects = [
     id: 0,
     title: "Mi Store",
     date: "Nov 2023 - Nov 2023",
-    description:
-      "Developed a full-stack web application of Mi Store ",
+    description: "Developed a full-stack web application of Mi Store ",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
     category: "web app",
     github: "https://github.com/shashank-mishra14/store",
@@ -273,7 +271,6 @@ export const projects = [
     github: "https://github.com/shashank-mishra14/E-Learning-Website",
     webapp: "https://e-learning-tawny.vercel.app/",
   },
-  
 ];
 
 export const TimeLineData = [
