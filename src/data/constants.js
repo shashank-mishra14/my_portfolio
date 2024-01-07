@@ -208,7 +208,7 @@ export const education = [
     school: "Kanpur Institute of Technology, Uttar Pradesh",
     date: "Oct 2020 - Sep 2024",
     grade: "8.21 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kanpur Institute of Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.21. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others, where I am learning and working on exciting projects with a team of talented developers.",
+    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kanpur Institute of Technology, Kanpur. I have completed 4 semesters and have a CGPA of 8.21. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
   },
   {
