@@ -190,6 +190,18 @@ export const experiences = [
     date: "Oct 2023 - Dec 2023",
     desc: "Working on the frontend of the web application and also wrote the whole documentation of the web application.",
     skills: [
+      "Trello",
+      "Slack",
+      "Gitbook",
+    ],
+  }, {
+    id: 1,
+    //img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
+    role: "Full Stack Developer Intern",
+    company: "The VC Project",
+    date: "Feb 2024 - Present",
+    desc: "Working on the frontend of the web application and backend to create a smooth experience for the people to interact with the user interface.",
+    skills: [
       "ReactJS",
       "Redux",
       "NodeJs",
@@ -197,9 +209,8 @@ export const experiences = [
       "HTML",
       "CSS",
       "JavaScript",
-      "Gitbook",
     ],
-  },
+  }
 ];
 
 export const education = [
